@@ -1,2 +1,2 @@
 # test_xxx
-this is a pro
+this is a product
